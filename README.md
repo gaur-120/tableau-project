@@ -6,6 +6,9 @@ Analyze customer satisfaction trends over time.
 Identify top-performing and underperforming flight routes.
 Compare ratings by travel class (Economy, Business, First).
 Use sentiment analysis to highlight common positive and negative feedback.
+## Dataset Used-
+- <a href="https://github.com/gaur-120/tableau-project/blob/main/Countries.csv">Countries Table</a>
+- <a href="https://github.com/gaur-120/tableau-project/blob/main/ba_reviews.csv">Airways Table</a>
 ## Tools & Techniques-
 Tableau Desktop: For data visualization and dashboard design
 Excel / Python (optional): For preprocessing and sentiment analysis
