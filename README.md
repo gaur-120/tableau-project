@@ -19,3 +19,5 @@ Map View: Ratings by flight route and departure location
 Filter by Cabin Class: Economy, Premium Economy, Business, First
 Sentiment Word Cloud (optional): Frequent terms in positive and negative reviews
 Measure Switcher: Toggle between sentiment score, star rating, and review volume
+## Result-
+<a href="https://github.com/gaur-120/tableau-project/blob/main/Screenshot%202025-07-06%20172037.png">View Dashboard</a>
